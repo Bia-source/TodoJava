@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.beatriz</groupId>
 	<artifactId>todo</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>todo</name>
 	<description>Task list built with Java</description>
 	<properties>
